@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007159504110",
+    "project_id": "adocao-dom",
+    "storage_bucket": "adocao-dom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007159504110:android:8f11c20ad4a5e9a19c17ff",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH466fZy4vjqSodFlwgPj6NwZwkohcKpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
